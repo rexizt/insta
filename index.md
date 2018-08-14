@@ -2,6 +2,9 @@
 <html>
 <head>
     <style>
+        body{
+            margin:0px;
+        }
         #instafeed{
             margin-left:-12px;
         }
